@@ -1,0 +1,18 @@
+文档与 Prompt 授权：CC BY 4.0（署名 4.0 国际）
+
+Copyright (c) 2026 YuZhe
+
+本仓库中的文档与 prompt 文本——包括 `知识库内核-泛用版-v3.30-粘贴版.md`、
+`kb-验收单.md`、`已知裁决点清单.md`、`README.md`——以
+Creative Commons Attribution 4.0 International License 授权。
+
+你可以自由共享、改编这些材料，只要给出适当署名、提供许可证链接，
+并说明是否做了改动。
+
+许可证全文：https://creativecommons.org/licenses/by/4.0/legalcode
+许可 deed（人话版）：https://creativecommons.org/licenses/by/4.0/
+
+---
+
+代码（`kb-check.sh`、`make-fixtures.sh` 等 shell 脚本）另以 MIT License 发布，
+见 `LICENSE-MIT`。
